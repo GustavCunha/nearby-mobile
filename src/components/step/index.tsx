@@ -1,8 +1,8 @@
 import { View, Text } from 'react-native'
 import { IconProps } from '@tabler/icons-react-native'
 
+import { colors } from '@/styles/theme';
 import { s } from './styles'
-import { colors } from '@/styles/colors';
 
 type Props = {
     title: string;
