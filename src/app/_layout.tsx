@@ -1,8 +1,8 @@
 import {Stack} from 'expo-router';
 import {GestureHandlerRootView} from 'react-native-gesture-handler'
 
-import { colors } from '@/styles/theme';
 import { Loading } from '@/components/loading';
+import { colors } from '@/styles/theme';
 
 import {
     useFonts,
