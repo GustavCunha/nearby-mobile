@@ -1,6 +1,6 @@
 # Nearby App - Clube de Benefícios
 
-![Nearby](.github\logoNearby.png)
+![Nearby](.github/logoNearby.png)
 
 ## Tecnologias Utilizadas 💻
 
